@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TV Watchlist</string>
+    <string name="search_series">Find any series here</string>
+    <string name="about_developer">About Developer</string>
+    <string name="developer_name">Warren Gerald Polandra</string>
+    <string name="developer_origin">Denpasar, Bali</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="dev_birthdate">February 3<font size="10"><sup>rd</sup></font> 2003</string>
+    <string name="institution">Institution</string>
+    <string name="dev_institution">Institut Teknologi Sepuluh Nopember</string>
+    <string name="major">Major</string>
+    <string name="dev_major">S1 Informatics Engineering</string>
+    <string name="email">Email</string>
+    <string name="dev_email">warren.polandra@gmail.com</string>
+    <string name="Linkedin">Linkedin</string>
+    <string name="dev_linkedin">Linkedin.com</string>
+    <string name="github">Github</string>
+    <string name="dev_github">github.com/warrenpolandra</string>
+    <string name="instagram">Instagram</string>
+    <string name="dev_instagram">instagram.com/warren_polandra</string>
+    <string name="series_detail">Series Detail</string>
+    <string name="genre">Genre: %s</string>
+    <string name="year">Release: %s</string>
+    <string name="rating">Rating: %s</string>
+    <string name="synopsis">Synopsis:</string>
+</resources>
