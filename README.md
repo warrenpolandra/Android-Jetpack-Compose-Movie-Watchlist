@@ -1,4 +1,4 @@
-# Submission Dicoding Belajar Membuat Aplikasi Android dengan Jetpack Compose
+# Android Jetpack Compose Movie Watchlist
 Submission kelas Dicoding: Belajar Membuat Aplikasi Android dengan Jetpack Compose. Membuat aplikasi yang dapat menampilkan list item dan detail dari salah satu item yang dipilih. Aplikasi juga dapat menampilkan halaman about yang berisi identitas dari developer. Aplikasi dibuat dengan menggunakan arsitektur Jetpack Compose.
 
 ## Fitur Aplikasi
